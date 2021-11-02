@@ -1,6 +1,8 @@
 {
-   "folders": [],
-   "settings": {
-      "actions": []
-   }
+      "folders": [{
+        "path": "file:///home/user/projects/Invoices" 
+      }],
+      "settings": {
+        "actions": []
+      }
 }
